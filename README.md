@@ -52,7 +52,7 @@ categorical and numerical variable (e.g., BMI and diabetes).
 
 Using the RStudio program, several successful statistical tests were conducted on the datasets and 
 insights into the various factors were gained that contribute to the development of diabetes, like BMI 
-and blood pressure. Our analysis revealed that diabetes is significantly linked to body weight, blood 
+and blood pressure. The analysis revealed that diabetes is significantly linked to body weight, blood 
 pressure, and BMI. While BMI is significantly related to weight, it should be noted that both the variables 
 are highly associated with an increased risk of developing diabetes, as determined through the use of 
 logistic regression. Our findings suggest that individuals who adopt healthier lifestyles may be less 
